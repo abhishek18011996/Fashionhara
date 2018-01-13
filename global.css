@@ -1,0 +1,24 @@
+*{
+	color:#fff;
+}
+
+.bg{
+	background:url(Resources/faishion.png);
+	height:100vh;
+	width:100%;
+}
+.formcontainer{
+	
+	padding:50px 60px;
+	margin-top:20vh;
+	-webkit-box-shadow: 61px 33px 42px 9px rgba(0,0,0,0.75);
+-moz-box-shadow: 61px 33px 42px 9px rgba(0,0,0,0.75);
+box-shadow: 61px 33px 42px 9px rgba(0,0,0,0.75);
+}
+.formcontainer2{
+	
+	padding:50px 60px;
+	-webkit-box-shadow: 61px 33px 42px 9px rgba(0,0,0,0.75);
+-moz-box-shadow: 61px 33px 42px 9px rgba(0,0,0,0.75);
+box-shadow: 61px 33px 42px 9px rgba(0,0,0,0.75);
+}
